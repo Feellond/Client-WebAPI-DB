@@ -1,0 +1,14 @@
+C:\Проекты\WebAPI\WebAPI.DAL\bin\Debug\net8.0\WebAPI.DAL.deps.json
+C:\Проекты\WebAPI\WebAPI.DAL\bin\Debug\net8.0\WebAPI.DAL.dll
+C:\Проекты\WebAPI\WebAPI.DAL\bin\Debug\net8.0\WebAPI.DAL.pdb
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.csproj.AssemblyReference.cache
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.AssemblyInfoInputs.cache
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.AssemblyInfo.cs
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.dll
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\refint\WebAPI.DAL.dll
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.pdb
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\ref\WebAPI.DAL.dll
+C:\Проекты\WebAPI\WebAPI.DAL\bin\Debug\net8.0\WebAPI.DAL.runtimeconfig.json
+C:\Проекты\WebAPI\WebAPI.DAL\obj\Debug\net8.0\WebAPI.DAL.genruntimeconfig.cache
