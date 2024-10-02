@@ -1,0 +1,15 @@
+C:\Проекты\WebAPI\WebAPI.BL\bin\Debug\net8.0\WebAPI.BL.deps.json
+C:\Проекты\WebAPI\WebAPI.BL\bin\Debug\net8.0\WebAPI.BL.dll
+C:\Проекты\WebAPI\WebAPI.BL\bin\Debug\net8.0\WebAPI.BL.pdb
+C:\Проекты\WebAPI\WebAPI.BL\bin\Debug\net8.0\WebAPI.DAL.dll
+C:\Проекты\WebAPI\WebAPI.BL\bin\Debug\net8.0\WebAPI.DAL.pdb
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.csproj.AssemblyReference.cache
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.AssemblyInfoInputs.cache
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.AssemblyInfo.cs
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.csproj.CoreCompileInputs.cache
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.csproj.Up2Date
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.dll
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\refint\WebAPI.BL.dll
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\WebAPI.BL.pdb
+C:\Проекты\WebAPI\WebAPI.BL\obj\Debug\net8.0\ref\WebAPI.BL.dll
